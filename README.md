@@ -1,2 +1,4 @@
-# Conecta-4---Proyecto
-Este es un proyecto que pretende resolver un clasificador de un juego 
+```py
+for i in range(2):
+  print(s)
+```
